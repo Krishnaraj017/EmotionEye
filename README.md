@@ -1,4 +1,4 @@
-# EmotionEye
+# EmotionEye 
 EmotionEye
 EmotionEye is an emotion detection application built using Firebase ML Kit and Kotlin. It leverages the power of machine learning to accurately analyze and identify human emotions from images or live video streams. With EmotionEye, you can gain valuable insights into the emotional states of individuals, enabling you to develop applications in various domains such as market research, customer feedback analysis, and human-computer interaction.
 
