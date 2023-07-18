@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525826870567",
+    "project_id": "emotion-43948",
+    "storage_bucket": "emotion-43948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525826870567:android:09b5851a4b3c4b6e06ed02",
+        "android_client_info": {
+          "package_name": "com.example.emotioneye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525826870567-idkdc16faq2be98ilgklddc5rfglin9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emotioneye",
+            "certificate_hash": "4ca03ae80960c3a255e37395e66fb88bc13cbc78"
+          }
+        },
+        {
+          "client_id": "525826870567-v0mu0n6qi3rtroquhi1c5q5oegba51fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt_FPkHcraexdBEf1kyeZ8O-Zv3IO42-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525826870567-v0mu0n6qi3rtroquhi1c5q5oegba51fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
