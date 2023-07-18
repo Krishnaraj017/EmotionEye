@@ -43,11 +43,6 @@ Use your device's camera to capture an image containing a person's face.
 EmotionEye will analyze the image and display the detected emotions.
 If accessing the live video stream:
 
-Select the "Live Video Stream" option.
-EmotionEye will start analyzing the video stream in real-time, displaying the emotions detected from the faces detected in the video.
-Explore the detailed emotion analysis results provided by EmotionEye, including the probability scores associated with each emotion category.
-
-Repeat the process to analyze more images or continue tracking emotions in the live video stream.
 
 Contributing
 We welcome contributions to EmotionEye! If you'd like to contribute, please follow these steps:
